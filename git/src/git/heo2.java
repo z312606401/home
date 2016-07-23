@@ -1,11 +1,10 @@
 package git;
 
-public class heo {
+public class heo2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		System.out.println("hahah");
+
 	}
 
 }
